@@ -1,7 +1,7 @@
 # Hi, I'm Shahzain! 👋
 ### 🚀 Aspiring Junior Product Manager / Product Management Working Student
 
-Welcome to my GitHub profile! I am a data-driven enthusiast preparing for my next career chapter as a **Werkstudent in Berlin, Germany**. I focus on bridging the gap into user problems, data analytics (Excel & Power BI), and product strategy.
+Welcome to my GitHub profile! I am a data-driven enthusiast preparing for my next career chapter as a **Werkstudent in Berlin, Germany**. I focus on bridging the gap between user problems, data analytics (Excel & Power BI), and product strategy.
 
 ---
 
@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I am a data-driven enthusiast preparing for my nex
 Product Managers need to document requirements, write product specs, and communicate across teams fast. Here is my live typing performance tracking:
 
 [![Monkeytype](https://shields.io)](https://monkeytype.com_)
+
 
 *Note: This card updates automatically with my latest scores from Monkeytype!*
 
