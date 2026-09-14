@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a data-driven enthusiast preparing for my nex
 ### 📊 My Typing Metrics & Efficiency
 Product Managers need to document requirements, write product specs, and communicate across teams fast. Here is my live typing performance tracking:
 
-[![Monkeytype Stats](https://vercel.app)](https://monkeytype.com_)
+[![Monkeytype](https://shields.io)](https://monkeytype.com_)
 
 *Note: This card updates automatically with my latest scores from Monkeytype!*
 
