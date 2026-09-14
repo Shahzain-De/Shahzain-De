@@ -10,7 +10,6 @@ Product Managers need to document requirements, write product specs, and communi
 
 [![Monkeytype](https://shields.io)](https://monkeytype.com_)
 
-
 *Note: This card updates automatically with my latest scores from Monkeytype!*
 
 ---
