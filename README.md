@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a data-driven enthusiast preparing for my nex
 ### 📊 Operational Efficiency & Speed
 Product Managers need to write clear specs, documentation, and requirements efficiently. You can verify my touch-typing milestones and live practice metrics directly on my profile here:
 
-🔗 **[Click here to view my live Monkeytype Profile](https://monkeytype.com_)**
+🔗 **[Click here to view my live Monkeytype Profile](https://monkeytype.com/profile/Shahzain_)**
 
 ---
 
